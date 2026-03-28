@@ -1,4 +1,3 @@
-```markdown id="r5t1k8"
 # Qualis CAPES – Dados de Periódicos
 
 Este repositório reúne avaliações de quadriênios do **Qualis Periódicos (CAPES)** obtidas a partir da plataforma Sucupira:
@@ -54,5 +53,3 @@ CAPES – Plataforma Sucupira
 ## Contribuições
 
 Sugestões e melhorias são bem-vindas via issue ou pull request.
-```
-
