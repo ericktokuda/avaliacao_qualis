@@ -11,7 +11,8 @@ O objetivo é facilitar o acesso e a análise desses dados.
 ## Conteúdo do repositório
 
 - Dados de periódicos do quadriênio 2021-2024: [`periodicos_2021_2024/`](./periodicos_2021_2024/)
-- Classificação de eventos da área de Computação: [`Computação_Classificação de Eventos 2025.xlsx`](./Computa%C3%A7%C3%A3o_Classifica%C3%A7%C3%A3o%20de%20Eventos%202025.xlsx)
+- Arquivos por área em Markdown: [`periodicos_2021_2024/areas/`](./periodicos_2021_2024/areas/)
+- Área de Computação: [`classificacoes_publicadas_computacao_2026_1768259614570.md`](./periodicos_2021_2024/areas/classificacoes_publicadas_computacao_2026_1768259614570.md)
 
 ---
 
