@@ -2,9 +2,16 @@
 
 Este repositório reúne avaliações de quadriênios do **Qualis Periódicos (CAPES)** obtidas a partir da plataforma Sucupira:
 
-https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf
+[Consulta pública de periódicos na Plataforma Sucupira](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf)
 
 O objetivo é facilitar o acesso e a análise desses dados.
+
+---
+
+## Conteúdo do repositório
+
+- Dados de periódicos do quadriênio 2021-2024: [`periodicos_2021_2024/`](./periodicos_2021_2024/)
+- Classificação de eventos da área de Computação: [`Computação_Classificação de Eventos 2025.xlsx`](./Computa%C3%A7%C3%A3o_Classifica%C3%A7%C3%A3o%20de%20Eventos%202025.xlsx)
 
 ---
 
@@ -33,7 +40,7 @@ Isso significa que:
 
 A CAPES anunciou a **descontinuidade do Qualis Periódicos**:
 
-https://www.gov.br/capes/pt-br/assuntos/noticias/sobre-o-qualis-periodicos-na-avaliacao-quadrienal-2021-2024
+[Comunicado oficial da CAPES sobre o Qualis Periódicos](https://www.gov.br/capes/pt-br/assuntos/noticias/sobre-o-qualis-periodicos-na-avaliacao-quadrienal-2021-2024)
 
 Assim, estes dados devem ser usados como:
 
