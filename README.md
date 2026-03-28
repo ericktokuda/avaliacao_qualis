@@ -1,7 +1,7 @@
 ```markdown id="r5t1k8"
 # Qualis CAPES – Dados de Periódicos
 
-Este repositório reúne avaliações do **Qualis Periódicos (CAPES)** obtidas a partir da plataforma Sucupira:
+Este repositório reúne avaliações de quadriênios do **Qualis Periódicos (CAPES)** obtidas a partir da plataforma Sucupira:
 
 https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf
 
